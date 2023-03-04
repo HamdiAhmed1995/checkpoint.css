@@ -1,0 +1,65 @@
+li {
+    display: inline;
+    
+}
+li a {color: green;
+ text-decoration: none;
+ font-style: italic;
+ font-size: 50px;
+ border: dotted green;
+ border-radius: 30%;
+ margin: 15px;
+align:right;
+}
+.div1{
+    
+    width: 500px;
+    height: 100px;
+   position: absolute;
+   left: 60%;
+   top: 0%;
+   position: fixed;
+   
+}
+.form{
+  font-size: 30px;
+  align:right;  
+}
+.submit{
+    font-size: 40px;
+    margin-top: 2%;
+    color: green;
+}
+input{
+    font-size: 20;
+}
+.form2{
+    
+   align:left;
+    
+
+
+}
+.form3{
+    color: green;
+    font-size: 40px;
+    margin-left: 8%;
+    margin-top: 4%;
+}
+p{
+    margin-left: 2%;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: green;
+}
+h3{
+    color:violet ;
+}
+td{
+    text-align: center;
+   
+}
+
